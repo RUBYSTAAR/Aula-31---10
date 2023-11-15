@@ -1,5 +1,5 @@
 ## SkinCare Shop
- #Aqui você encontra os melhores produtos para SkinCare!
+ # Aqui você encontra os melhores produtos para SkinCare!
 
 Bem-vindas(os) à SkinCare Shop! 
 Nesse site você encontra produtos de qualidade por um preço acessível, para todos os tipos de pele. 
