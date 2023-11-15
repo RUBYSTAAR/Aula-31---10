@@ -1,4 +1,4 @@
-# SkinCare Shop
+# SKIN CARE SHOP
  ## Aqui você encontra os melhores produtos para SkinCare!
 
 Bem-vindas(os) à SkinCare Shop! 
